@@ -5,9 +5,8 @@
 - :robot: I love engineering, :alembic: science & :computer: technology
 - :satellite: IT consultant on request
 - :books: I'm always ready to learn
-- :open_book: I like reading, :film_projector: cinema & :tv: TV series
-- :basketball: streetball player sometimes
-	- :weight_lifting: calisthenics amateur
-	- :mountain: hiking for pleasure
+
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg "Alessio's Ko-Fi for contributions")](https://ko-fi.com/adurante)
+
 - :mailbox: How to reach me? My [website](https://adurante.github.io/ "Alessio's Website")
 	- :closed_lock_with_key: PGP public key available inside
