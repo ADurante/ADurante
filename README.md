@@ -1,7 +1,7 @@
-### Hi everybody, welcome on my GitHub profile! :octocat:
+### Hi there! Welcome on my GitHub profile! :octocat:
 
 - :man_technologist: I'm Alessio
-- :earth_americas: I'm currently live in Italy
+- :earth_americas: I currently live in Italy
 - :robot: I love engineering, :alembic: science & :computer: technology
 - :satellite: IT consultant on request
 - :books: I'm always ready to learn
