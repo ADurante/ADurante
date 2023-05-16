@@ -9,9 +9,7 @@
 	- :closed_lock_with_key: PGP public key available inside
 
 ## :bar_chart: Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADurante&hide=stars,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADurante&theme=transparent&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADurante&hide=stars,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADurante&theme=transparent&hide_border=true&layout=donut&langs_count=10&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :pushpin: Extra Pins
 <a href="https://github.com/ADurante/itp-keylay">
