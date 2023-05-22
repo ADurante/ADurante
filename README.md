@@ -4,9 +4,8 @@
 - :earth_americas: Based in World
 - :books: I'm always ready to learn
 
-:mailbox: How to reach me?
-- [website](https://adurante.github.io/ "Alessio's Website")
-	- :closed_lock_with_key: PGP public key available inside
+:mailbox: How to reach me more safely?
+- ![Keybase PGP](https://img.shields.io/keybase/pgp/adurante)
 
 ## :bar_chart: Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADurante&hide=stars,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADurante&theme=transparent&hide_border=true&layout=donut&langs_count=10&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
