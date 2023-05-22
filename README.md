@@ -20,3 +20,7 @@
 
 ## :star: Support me?
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg "Alessio's Ko-fi for contributions")](https://ko-fi.com/adurante)
+
+or
+
+![ETH](https://img.shields.io/badge/eth-0x4995449648ee222728E5a2aC891D310868d3c492-%2362688f)
