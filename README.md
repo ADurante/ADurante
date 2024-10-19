@@ -1,7 +1,7 @@
 # Ciao! Hi! :octocat:
 - :man_technologist: I'm Alessio
 - :it: Italian native
-- :earth_americas: Based in World
+- :earth_americas: Based in the Earth planet
 - :books: I'm always ready to learn
 
 :mailbox: How to reach me more safely?
